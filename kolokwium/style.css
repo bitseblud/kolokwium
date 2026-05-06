@@ -1,0 +1,32 @@
+.item{
+    font-weight: 1000;
+    font-size: 40px;
+    text-align: center;
+}
+#container{
+    position: absolute;
+    height: 700px;
+    width: 250px;
+    border: black solid 1px;
+}
+#container2{
+    margin-left: 310px;
+    height: 700px;
+    width: 1500px;
+    border: black solid 1px;
+
+}
+.link{
+    font-weight: 100;
+    font-size: 20px;
+    text-align: center;
+}
+
+.liczba{
+    font-size: larger;
+    margin-top: 10px;
+}
+.liczba2{
+    font-size: larger;
+    margin-top: 10px;
+}
